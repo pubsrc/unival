@@ -1,0 +1,35 @@
+{
+  "name": "unival",
+  "version": "1.0.0",
+  "description": "Detect duplicate keys, values, or lines on the fly within a file or a group of files.",
+  "main": "bin/univalCli.js",
+  "bin": {
+    "unival": "bin/univalCli.js"
+  },
+  "types": "bin",
+  "scripts": {
+    "build": "tsc -p ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pubsrc/unival.git"
+  },
+  "keywords": [
+    "unival",
+    "key value",
+    "resource files",
+    "internationalization",
+    "localization"
+  ],
+  "author": "Bilal Syed",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/pubsrc/unival/issues"
+  },
+  "homepage": "https://github.com/pubsrc/unival#readme",
+  "devDependencies": {
+    "@types/node": "^14.11.2",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {}
+}
