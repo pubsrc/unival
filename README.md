@@ -5,7 +5,6 @@ You can validate a file for duplicate keys, values, both keys and values or dupl
 
 
 # Installation
-Installation
 Run ``` npm install unival ``` to install unival
 
 To install globally
@@ -168,4 +167,4 @@ Unival by default compares strings ignoring the case. To make unival to make cas
 
 ## License
 
-Copyright (c) 2020-2020. Licensed under the Apache License 2.0 license.
+Copyright (c) 2020-2020. Licensed under the Apache License 2.0.
